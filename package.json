@@ -1,0 +1,27 @@
+{
+  "name": "satelucoweb-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS application with and update year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaerim-cisneros/satelucoweb-js-footer.git"
+  },
+  "keywords": [
+    "footer",
+    "copyright",
+    "name"
+  ],
+  "author": "Kaerim Arturo Cisneros Soto <kaerim.cisneros@gmail.com> (https://github.com/kaerim-cisneros)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaerim-cisneros/satelucoweb-js-footer/issues"
+  },
+  "homepage": "https://github.com/kaerim-cisneros/satelucoweb-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
